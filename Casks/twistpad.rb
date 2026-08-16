@@ -1,6 +1,6 @@
 cask "twistpad" do
-  version "1.4"
-  sha256 "234c9092f2f0cb33fc75f660f227bf86f5757d52a11085ccd61023f78182459c"
+  version "1.5"
+  sha256 "c6aed3c926ef1669e859d619576ed91feb7168dd4953f5fd41984a27e0986045"
 
   url "https://github.com/Toxic880/TwistPad/releases/download/v#{version}/TwistPad-#{version}.zip"
   name "TwistPad"
